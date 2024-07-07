@@ -10,7 +10,7 @@ and make sure is running
 
 <img width="1377" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠١ في ٣ ٤١ ٠٠ ص" src="https://github.com/ijana7/web-remote-control-1/assets/173642526/d816cba2-3bf2-4e7f-ae6a-5525e331bc47">
 
-## here after we pressed the button
+## here after we pressed the button (RIGHT)
 <img width="1406" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠١ في ٣ ٣٦ ٥٩ ص" src="https://github.com/ijana7/web-remote-control-1/assets/173642526/66093cff-a9e3-4d87-8153-29d1a64e289a">
 
 ## here we created html page with remote control stored in data base 
